@@ -3,7 +3,7 @@ Atividades práticas da aula 6 da Generation Brasil, turma de JavaScript-08, tes
 Para verificar as atividades, necessário o pacote readline-sync:
 
 No terminal, executar:
-``bash 
+`` 
 npm install readline-sync
 ou
 npm i
