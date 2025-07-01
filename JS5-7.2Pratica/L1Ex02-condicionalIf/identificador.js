@@ -1,0 +1,25 @@
+const readline = require("readline-sync");
+
+console.log("\nMe de um numero, verificarei para voce se ele é par ou impar e se é positivo ou negativo.\n");
+
+let numero = readline.questionInt("Diga seu numero: ");
+
+if ( numero > 0 ) {
+  if ( (numero % 2) === 0 ) {
+    console.log(`\nSeu numero (${numero}) e positivo e é um numero par.`);
+  } else if ( (numero % 2) != 0) {
+    console.log(`\nSeu numero (${numero}) e positivo e é um numero impar.`);
+  } else {
+    console.log(`\nHouve algum erro!!`);
+  }
+} else if ( numero < 0 ) {
+  if (numero % 2 === 0) {
+    console.log(`\nSeu numero (${numero}) é negativo e é um numero par.`);
+  } else if (numero % 2 != 0) {
+    console.log(`\nSeu numero (${numero}) é negativo e é um numero impar.`);
+  } else {
+    console.log(`\nHouve algum erro!!`);
+  }
+} else {
+  console.log("\n Houve algum erro!!");
+}
