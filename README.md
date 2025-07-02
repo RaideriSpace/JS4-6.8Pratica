@@ -9,6 +9,27 @@ ou
 npm i
 ``
 
+## 📖 JS6-9.6Pratica
+Atividades para prática e teste de laços de repetição, realizadas no dia 8 do bootcamp.
+
+### 📝 Lista 1 - Laço For  - Atividade 1
+Receber dois números e verificar neste intervalo, quais números são múltiplos de 3 e de 5. Se o primeiro número for maior que o segundo, exibir um erro e fechar o programa.
+
+### 📝 Lista 1 - Laço For  - Atividade 2
+Receber 10 numeros e calcular quantos desses números foram pares e quantos desses números foram ímpares.
+
+### 📝 Lista 2 - Laço While  - Atividade 3
+Recebe valores de idades e verifica quantos desses valores de idade são maiores que 21 e quantos são menores que 50. Quando recebe um valor negativo, para de fazer a contagem e mostra o resultado.
+
+### 📝 Lista 2 - Laço While  - Atividade 4
+Realiza uma pesquisa recebendo a idade, um código para a identidade de gênero e um código para o tipo de desenvolvedora. Depois pergunta se será cadastrado um colaborador. Quando não houver mais colaboradores para cadastrar, mostra alguns dos dados obtidos com a pesquisa.
+
+### 📝 Lista 2 - Laço While  - Atividade 5
+Recebe números inteiros diferentes de 0 e faz uma soma de todos que foram positivos. Se o 0 for digitado, finalizará a conta e mostrará o resultado.
+
+### 📝 Lista 2 - Laço While  - Atividade 6
+Recebe números inteiros diferentes de 0 e faz uma soma de todos que foram múltplos de 3. Se o 0 for digitado, finalizará a conta e mostrará a média dos números como resultado.
+
 ## 📖 JS5-7.2Pratica
 Atividades para prática e teste de operadores lógicos e condicionais, realizadas no dia 7 do bootcamp.
 
