@@ -1,7 +1,7 @@
 const readline = require("readline-sync");
 
 console.log(
-  "\nVamos verificar se a soma de A + B é maior, menor ou igual a C.\n"
+  "\nVamos verificar se a soma de A + B e maior, menor ou igual a C.\n"
 );
 
 let numeroA = readline.questionInt("Por favor, digite o valor de A: ");
@@ -15,19 +15,19 @@ if (somaAB > numeroC) {
   console.log(
     `A soma deu (${numeroA} + ${numeroB}) = ${somaAB} e ${somaAB} > ${numeroC}`
   );
-  console.log(`\nEntao, A + B é maior que C.`);
+  console.log(`\nEntao, A + B e maior que C.`);
 } else if (somaAB === numeroC) {
   console.log(`\nPara A = ${numeroA}, B = ${numeroB} e C = ${numeroC}`);
   console.log(
     `A soma deu (${numeroA} + ${numeroB}) = ${somaAB} e ${somaAB} = ${numeroC}`
   );
-  console.log(`\nEntao, A + B é igual a C.`);
+  console.log(`\nEntao, A + B e igual a C.`);
 } else if (somaAB < numeroC) {
   console.log(`\nPara A = ${numeroA}, B = ${numeroB} e C = ${numeroC}`);
   console.log(
     `A soma deu (${numeroA} + ${numeroB}) = ${somaAB} e ${somaAB} < ${numeroC}`
   );
-  console.log(`\nEntao, A + B é menor que C.`);
+  console.log(`\nEntao, A + B e menor que C.`);
 } else {
   console.log("\nAlgo deu errado. ");
 }

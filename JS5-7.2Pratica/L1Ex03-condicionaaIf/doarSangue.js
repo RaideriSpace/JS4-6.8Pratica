@@ -14,10 +14,10 @@ if (doou == "1") {
 
 if (idade >= 18 && idade <= 69) {
   if (idade < 60 || (idade > 60 && !doou)) {
-    console.log(`\n ${nome}, você está apto para doar sangue!`);
+    console.log(`\n ${nome}, voce esta apto para doar sangue!`);
   } else {
-    console.log(`\n ${nome}, você NÃO está apto a doar sangue! `);
+    console.log(`\n ${nome}, voce NAO esta apto a doar sangue! `);
   }
 } else {
-  console.log(`\n ${nome}, você NÃO está apto a doar sangue! `);
+  console.log(`\n ${nome}, voce NAO esta apto a doar sangue! `);
 }

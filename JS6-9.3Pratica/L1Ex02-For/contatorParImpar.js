@@ -11,7 +11,7 @@ for (let i = 1; i < 11; i++) {
   let numero = readline.questionInt(`Digite o ${i} numero: `);
   if (numero % 2 == 0) {
     numeroPar++;
-  } else if (numero % 2 != 0) {
+  } else {
     numeroImpar++;
   }
 }
