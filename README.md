@@ -24,7 +24,7 @@ Receber 10 valores inteiros não repetidos e adicionar-los a uma coleção. Depo
 ### 📝 Lista 2 - Collection Set  - Atividade 4
 Com uma coleção de números de 10 valores inteiros pré-definida, receber um numero inteiro e procurar dentro da array. Se for encontrado, dizer que foi encontrado, se não for encontrado, dizer que não conseguiu encontrar. 
 
-## 📖 JS6-9.3Pratica <div align="left"><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/></div>
+## 📖 JS6-9.3Pratica <div align="right"><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/></div>
 Atividades para prática e teste de laços de repetição, realizadas no dia 8 do bootcamp.
 
 ### 📝 Lista 1 - Laço For  - Atividade 1
