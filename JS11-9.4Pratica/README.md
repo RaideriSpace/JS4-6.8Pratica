@@ -1,4 +1,4 @@
-## <img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="30px"/> JS11-9.4Pratica 📖
+## <img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="60px"/> JS11-9.4Pratica 📖
 Atividades para prática e teste de collections em TypeScript, focando em Array e Set, realizadas no dia 9 do bootcamp.
 
 ### 📝 Lista 1 - Collection Array  - Atividade 1

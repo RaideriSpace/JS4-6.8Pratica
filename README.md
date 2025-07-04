@@ -15,6 +15,17 @@ ou
 npm i
 ```
 
+## <img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="30px"/> JS13-10.2Pratica 📖
+<details><summary>Atividades para prática e teste de collections e estrutura de dados em TypeScript, focando em Queue e Stack, realizadas no dia 10 do bootcamp. <br> Clique para ver sobre as atividades </summary>
+
+### 📝 Lista 1 - Collection Queue  - Atividade 1
+Utilização do Queue para criação de um sistema de cadastro de fila de um banco. Recebe um novo cadastro, se o nome ainda nao estiver na lista, adiciona. Lista todos os nomes que estao na lista e fala quantas pessoas tem na fila. Anuncia e remove a proxima pessoa da fila. Reseta a fila inteira.
+
+### 📝 Lista 2 - Collection Stack  - Atividade 2
+Utilização do Stack para criação de um sistema de cadastro de pilha de livros. Recebe um novo cadastro, se o nome do livro ainda nao estiver na lista, adiciona. Lista todos os livros que estao na lista e fala quantos tem na pilha. Remove o primeiro livro da pilha.
+</details>
+
+
 ## <img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="30px"/> JS11-9.4Pratica 📖
 <details><summary>Atividades para prática e teste de collections em TypeScript, focando em Array e Set, realizadas no dia 9 do bootcamp. <br> Clique para ver sobre as atividades </summary>
 
@@ -30,7 +41,7 @@ Receber 10 valores inteiros não repetidos e adicionar-los a uma coleção. Depo
 ### 📝 Lista 2 - Collection Set  - Atividade 4
 Com uma coleção de números de 10 valores inteiros pré-definida, receber um numero inteiro e procurar dentro da array. Se for encontrado, dizer que foi encontrado, se não for encontrado, dizer que não conseguiu encontrar. </details>
 
-## <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/> JS6-9.3Pratica 📖
+## <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/> JS06-9.3Pratica 📖
 
 <details><summary>Atividades para prática e teste de laços de repetição, realizadas no dia 8 do bootcamp. Adicional de 4 atividades sobre Vetor e Matriz, estudados de forma assíncrona. <br> Clique para ver sobre as atividades </summary>
 
@@ -65,7 +76,7 @@ Recebe 9 valores, monta uma matriz 3x3 e identifica na matriz quais elementos es
 Recebe as notas de 10 alunos em 4 bimestres e retorna a media final de cada aluno. 
 </details>
 
-## <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/> JS5-7.2Pratica 📖
+## <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/> JS05-7.2Pratica 📖
 <details> <summary>Atividades para prática e teste de operadores lógicos e condicionais, realizadas no dia 7 do bootcamp. <br> Clique para ver sobre as atividades </summary>
 
 ### 📝 Lista 1 - Condicional If - Atividade 1
@@ -92,7 +103,7 @@ Calculadora simples que faz operações de +, -, / ou *.
 ### 📝 Lista 2 - Condicional Switch - Atividade 8
 Programa de um banco simples com ações de saldo, saque e depósito. </details>
 
-## <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/> JS4-6.8Pratica 📖
+## <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/> JS04-6.8Pratica 📖
 <details> <summary> Atividades para prática e teste de variáveis e operadores, realizadas no dia 6 do bootcamp. 
 <br> Clique para ver sobre as atividades  </summary>
 

@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/> JS5-7.2Pratica 📖
+# <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="60px"/> JS05-7.2Pratica 📖
 Atividades para prática e teste de operadores lógicos e condicionais, realizadas no dia 7 do bootcamp.
 
 ## 📝 Lista 1 - Condicional If - Atividade 1

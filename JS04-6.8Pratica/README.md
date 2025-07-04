@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/> JS4-6.8Pratica 📖
+# <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="60px"/> JS04-6.8Pratica 📖
 Atividades para prática e teste de variáveis e operadores, realizadas no dia 6 do bootcamp. 
 
 ## 📝 Atividade 1

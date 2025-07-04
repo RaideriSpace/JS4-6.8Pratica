@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30px"/> JS6-9.3Pratica 📖
+# <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="60px"/> JS06-9.3Pratica 📖
 
 Atividades para prática e teste de laços de repetição, realizadas no dia 8 do bootcamp. Adicional de 4 atividades sobre Vetor e Matriz, estudados de forma assíncrona. 
 
