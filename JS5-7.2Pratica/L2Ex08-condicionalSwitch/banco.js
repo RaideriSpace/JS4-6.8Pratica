@@ -19,12 +19,12 @@ while (operando) {
   switch (opcao) {
     case 1:
       let operandoSaldo = true;
-      while (operandoSaldo){
+      while (operandoSaldo) {
         console.clear();
         console.log("\n --- Operação - Saldo --- \n");
         console.log(`Saldo: R$ ${saldo.toFixed(2)}`);
         sair = readline.question("Voltar - 1 | Sair - 2\n");
-        if (sair == 1){
+        if (sair == 1) {
           operandoSaldo = false;
         } else {
           operando = false;
@@ -34,7 +34,7 @@ while (operando) {
       break;
     case 2:
       let operandoSaque = true;
-      while (operandoSaque){
+      while (operandoSaque) {
         console.clear();
         console.log("\n --- Operação - Saque --- \n");
         let saque = readline.questionFloat("Digite o valor para sacar: \n");
@@ -56,7 +56,7 @@ while (operando) {
       break;
     case 3:
       let operandoDeposito = true;
-      while (operandoDeposito){
+      while (operandoDeposito) {
         console.clear();
         console.log("\n --- Operação - Depósito --- \n");
         let deposito = readline.questionFloat(
@@ -79,7 +79,9 @@ while (operando) {
       console.log("Obrigado por usar ConsoleBank.");
       console.log(" Saindo...");
       operando = false;
+
       break;
+
     default:
       console.log("Operação inválida! ");
       break;
